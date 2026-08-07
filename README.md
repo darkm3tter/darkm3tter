@@ -11,17 +11,14 @@
 
 **`~ $ whoami`** → desarrollador full-stack construyendo herramientas OSS para el día a día del programador
 
-![GitHub followers](https://img.shields.io/github/followers/darkm3tter?style=for-the-badge&logo=github&color=181717)
 ![Open Source](https://img.shields.io/badge/Open%20Source-herramientas%20para%20devs-181717?style=for-the-badge&logo=github)
 ![Perfil npm](https://img.shields.io/badge/npmjs-darkm3tter-CB3837?style=for-the-badge&logo=npm)
 
 </div>
 
----
+<img src="assets/matrix-rain.gif" width="640" alt="matrix rain">
 
-<pre>
-░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓
-</pre>
+---
 
 ## [~/stack]
 
