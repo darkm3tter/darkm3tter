@@ -9,10 +9,9 @@
  \__,_|\__,_|_|  |_|\_\_| |_| |_|\____/ \__|\ __\___|_|   
 </pre>
 
-**`~ $ whoami`** → Marcos · <!-- AGE_START -->21<!-- AGE_END --> años · 🇭🇳 Honduras
+**`~ $ whoami`** → Marcos · <!-- AGE_START -->21<!-- AGE_END --> años
 
 [![Email](https://img.shields.io/badge/mygcubas123%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mygcubas123@gmail.com)
-![Open Source](https://img.shields.io/badge/Open%20Source-herramientas%20para%20devs-181717?style=for-the-badge&logo=github)
 [![npm](https://img.shields.io/badge/npmjs-darkm3tter-CB3837?style=for-the-badge&logo=npm)](https://www.npmjs.com/~darkm3tter)
 
 </div>
