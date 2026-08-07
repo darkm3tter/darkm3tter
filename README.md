@@ -1,6 +1,14 @@
+<div align="center">
+
 # darkm3tter
 
-Desarrollador full-stack construyendo herramientas para el día a día del programador — y publicándolas como OSS.
+### Desarrollador full-stack construyendo herramientas OSS para el día a día del programador
+
+![GitHub followers](https://img.shields.io/github/followers/darkm3tter?style=for-the-badge&logo=github&color=181717)
+![Repos públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdarkm3tter&query=public_repos&label=repos&style=for-the-badge&color=181717&logo=github)
+![Perfil npm](https://img.shields.io/badge/npmjs-darkm3tter-CB3837?style=for-the-badge&logo=npm)
+
+---
 
 ## Stack
 
@@ -14,23 +22,24 @@ Desarrollador full-stack construyendo herramientas para el día a día del progr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+## Sobre mí
+
+- Construyo herramientas prácticas y las publico como OSS con documentación bilingüe (EN/ES)
+- TypeScript estricto, tests primero y Conventional Commits
+- Interesado en la seguridad de la cadena de suministro y el ecosistema npm
+
 ## Proyectos
 
-| Proyecto | Descripción | Links |
+| Proyecto | Qué es | Estado |
 |---|---|---|
-| **depdiet** | Detecta dependencias TS/JS tan poco usadas que conviene inlinear o eliminar, con score transparente 0-100 y modo CI | [repo](https://github.com/darkm3tter/depdiet) · [npm](https://www.npmjs.com/package/depdiet) |
-| **installprobe** | Investigación educativa de cadena de suministro: qué se ejecuta en tu máquina durante `npm install` y hasta dónde llega un paquete malicioso | [repo](https://github.com/darkm3tter/installprobe) · [npm](https://www.npmjs.com/package/installprobe) |
+| [**depdiet**](https://github.com/darkm3tter/depdiet) | Detecta dependencias TS/JS tan poco usadas que conviene inlinear o eliminar, con score transparente y modo CI | ![stars](https://img.shields.io/github/stars/darkm3tter/depdiet?style=flat-square) ![language](https://img.shields.io/github/languages/top/darkm3tter/depdiet?style=flat-square) ![license](https://img.shields.io/github/license/darkm3tter/depdiet?style=flat-square) [npm](https://www.npmjs.com/package/depdiet) |
+| [**installprobe**](https://github.com/darkm3tter/installprobe) | Investigación educativa de cadena de suministro: qué ejecuta `npm install` en tu máquina y hasta dónde llega un paquete malicioso | ![stars](https://img.shields.io/github/stars/darkm3tter/installprobe?style=flat-square) ![language](https://img.shields.io/github/languages/top/darkm3tter/installprobe?style=flat-square) ![license](https://img.shields.io/github/license/darkm3tter/installprobe?style=flat-square) [npm](https://www.npmjs.com/package/installprobe) |
 
-## Estadísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=darkm3tter&show_icons=true&theme=dark&hide_border=true)
-
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darkm3tter&layout=compact&theme=dark&hide_border=true)
-
-## Contacto
-
-- GitHub: [github.com/darkm3tter](https://github.com/darkm3tter)
-- npm: [npmjs.com/~darkm3tter](https://www.npmjs.com/~darkm3tter)
+</div>
 
 ---
+<div align="center">
+
 *Construido con TypeScript estricto, tests primero y Conventional Commits.*
+
+</div>
