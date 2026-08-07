@@ -1,16 +1,33 @@
 <div align="center">
 
-# darkm3tter
+<pre>
+     _            _               _____ _   _            
+    | |          | |             |____ | | | |           
+  __| | __ _ _ __| | ___ __ ___      / / |_| |_ ___ _ __ 
+ / _` |/ _` | '__| |/ / '_ ` _ \     \ \ __| __/ _ \ '__|
+| (_| | (_| | |  |   <| | | | | |.___/ / |_| ||  __/ |   
+ \__,_|\__,_|_|  |_|\_\_| |_| |_|\____/ \__|\__\___|_|   
+</pre>
 
-### Desarrollador full-stack construyendo herramientas OSS para el día a día del programador
+**`~ $ whoami`** → desarrollador full-stack construyendo herramientas OSS para el día a día del programador
 
 ![GitHub followers](https://img.shields.io/github/followers/darkm3tter?style=for-the-badge&logo=github&color=181717)
 ![Open Source](https://img.shields.io/badge/Open%20Source-herramientas%20para%20devs-181717?style=for-the-badge&logo=github)
 ![Perfil npm](https://img.shields.io/badge/npmjs-darkm3tter-CB3837?style=for-the-badge&logo=npm)
 
+</div>
+
 ---
 
-## Stack
+<pre>
+░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓
+</pre>
+
+## [~/stack]
+
+<pre>
+~ $ cat stack.txt
+</pre>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-f9f1e1?style=for-the-badge&logo=bun&logoColor=black)
@@ -22,24 +39,36 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## Sobre mí
+## [~/proyectos]
 
-- Construyo herramientas prácticas y las publico como OSS con documentación bilingüe (EN/ES)
-- TypeScript estricto, tests primero y Conventional Commits
-- Interesado en la seguridad de la cadena de suministro y el ecosistema npm
-
-## Proyectos
+<pre>
+~ $ ls -la proyectos
+</pre>
 
 | Proyecto | Qué es | Estado |
 |---|---|---|
 | [**depdiet**](https://github.com/darkm3tter/depdiet) | Detecta dependencias TS/JS tan poco usadas que conviene inlinear o eliminar, con score transparente y modo CI | ![stars](https://img.shields.io/github/stars/darkm3tter/depdiet?style=flat-square) ![language](https://img.shields.io/github/languages/top/darkm3tter/depdiet?style=flat-square) ![license](https://img.shields.io/github/license/darkm3tter/depdiet?style=flat-square) [npm](https://www.npmjs.com/package/depdiet) |
 | [**installprobe**](https://github.com/darkm3tter/installprobe) | Investigación educativa de cadena de suministro: qué ejecuta `npm install` en tu máquina y hasta dónde llega un paquete malicioso | ![stars](https://img.shields.io/github/stars/darkm3tter/installprobe?style=flat-square) ![language](https://img.shields.io/github/languages/top/darkm3tter/installprobe?style=flat-square) ![license](https://img.shields.io/github/license/darkm3tter/installprobe?style=flat-square) [npm](https://www.npmjs.com/package/installprobe) |
 
-</div>
+## [~/sobre-mi]
 
----
+<pre>
+~ $ cat sobre-mi.txt
+  · herramientas prácticas publicadas como OSS con documentación bilingüe (EN/ES)
+  · TypeScript estricto, tests primero y Conventional Commits
+  · interesado en la seguridad de la cadena de suministro y el ecosistema npm
+</pre>
+
+<pre>
+░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓░▒▓
+</pre>
+
 <div align="center">
 
-*Construido con TypeScript estricto, tests primero y Conventional Commits.*
+<pre>
+~ $ exit
+</pre>
+
+*TypeScript estricto · tests primero · Conventional Commits*
 
 </div>
