@@ -1,0 +1,37 @@
+name: Pulse
+
+on:
+  schedule:
+    - cron: "0 8 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gather portfolio stats
+        run: |
+          set -euo pipefail
+          {
+            echo "# Portfolio pulse"
+            echo
+            echo "_Actualizado automáticamente cada lunes._"
+            echo
+            echo "| Repo | Stars | Descargas/sem |"
+            echo "|---|---|---|"
+            for repo in depdiet installprobe repo-guard codeprovenance; do
+              stars=$(gh api "repos/darkm3tter/$repo" --jq .stargazers_count)
+              dl=$(curl -s "https://api.npmjs.org/downloads/point/last-week/$repo" | jq -r '.downloads // "—"' 2>/dev/null || echo "—")
+              echo "| $repo | $stars | $dl |"
+            done
+          } > STATS.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add STATS.md
+          git diff --cached --quiet || (git commit -m "chore: update portfolio pulse" && git push)
+        env:
+          GH_TOKEN: ${{ github.token }}
