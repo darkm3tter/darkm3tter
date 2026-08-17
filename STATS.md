@@ -4,7 +4,7 @@ _Actualizado automáticamente cada lunes._
 
 | Repo | Stars | Descargas/sem |
 |---|---|---|
-| depdiet | 0 | 16 |
-| installprobe | 0 | 61 |
+| depdiet | 0 | 19 |
+| installprobe | 0 | 23 |
 | repo-guard | 0 | — |
 | codeprovenance | 0 | — |
